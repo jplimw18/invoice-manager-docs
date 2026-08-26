@@ -9,3 +9,4 @@ I've got the idea from a technical Interview and I've built my own [exercise](/e
 - [3. Use Cases](docs/03-use-cases.md)
 - [4. Business Rules](docs/04-business-rules.md)
 - [5. Constraints](docs/05-constraints.md)
+- [6. Data Models](docs/06-data-model.md)
